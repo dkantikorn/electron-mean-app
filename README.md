@@ -1,2 +1,2 @@
 # ng2-electron
-Using Angular2 with Electron
+Using MEAN stack with Electron

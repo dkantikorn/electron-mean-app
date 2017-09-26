@@ -1,7 +1,7 @@
 {
-  "name": "ng2-electron",
+  "name": "electron-mean-app",
   "version": "0.1.0",
-  "description": "Using Angular 2 with Electron",
+  "description": "Using MEAN stack with Electron",
   "main": "main.js",
   "scripts": {
     "start": "tsc && concurrently \"npm run tsc:w\" \"electron .\" ",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DenisVuyka/ng2-electron.git"
+    "url": "git+https://github.com/dkantikorn/electron-mean-app.git"
   },
   "keywords": [
     "Electron",
@@ -19,12 +19,12 @@
     "tutorial",
     "Angular"
   ],
-  "author": "Denys Vuika <denys.vuika@gmail.com>",
+  "author": "YaRG <sarawutt.b@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DenisVuyka/ng2-electron/issues"
+    "url": "https://github.com/dkantikorn/electron-mean-app/issues"
   },
-  "homepage": "https://github.com/DenisVuyka/ng2-electron/#readme",
+  "homepage": "https://github.com/dkantikorn/electron-mean-app/#readme",
   "dependencies": {
     "@angular/common": "2.2.0",
     "@angular/compiler": "2.2.0",
