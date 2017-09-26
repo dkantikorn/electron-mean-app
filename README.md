@@ -1,2 +1,2 @@
-# ng2-electron
+# electron-mean-app
 Using MEAN stack with Electron
